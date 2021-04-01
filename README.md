@@ -1,4 +1,4 @@
-Vault 1.1.8 rc1
+Vault 1.1.7 stable
 --------------------
 
 安装必须组件 (GO Version 1.16+ is *required*)
